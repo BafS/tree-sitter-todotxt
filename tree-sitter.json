@@ -15,7 +15,8 @@
     "version": "0.1.0",
     "license": "MIT",
     "description": "todo.txt grammar for tree-sitter",
-    "authors": [{ "name": "BafS" }]
+    "authors": [{ "name": "BafS" }],
+    "links": { "repository": "https://github.com/BafS/tree-sitter-todotxt" }
   },
   "bindings": {
     "c": false,

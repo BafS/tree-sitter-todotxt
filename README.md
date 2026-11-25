@@ -39,7 +39,9 @@ let tree = parser.parse("(A) Call mom +family @phone\n", None).unwrap();
 
 ## Development
 
-You need the tree-sitter CLI (`cargo install tree-sitter-cli --locked`).
+You need the tree-sitter CLI (`cargo install tree-sitter-cli --locked`). The
+parser in `src/` was generated with version 0.27.2; use the same version so a
+regenerated parser differs only where the grammar changed.
 
 ```sh
 tree-sitter generate     # grammar.js → src/parser.c (commit the result)

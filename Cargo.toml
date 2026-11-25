@@ -4,10 +4,13 @@ description = "todo.txt grammar for tree-sitter"
 version = "0.1.0"
 authors = ["BafS"]
 license = "MIT"
+repository = "https://github.com/BafS/tree-sitter-todotxt"
 readme = "README.md"
 keywords = ["incremental", "parsing", "tree-sitter", "todotxt"]
 categories = ["parser-implementations", "parsing", "text-editors"]
 edition = "2021"
+# `unsafe extern` blocks in the bindings.
+rust-version = "1.82"
 autoexamples = false
 
 build = "bindings/rust/build.rs"
