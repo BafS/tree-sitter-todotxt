@@ -1,0 +1,26 @@
+(A) 2026-11-25 Call mom +family @phone due:2026-11-30
+(B) Schedule the annual checkup +health
+(C) 2026-11-20 Plan the trip +travel @laptop due:2026-12-15 t:2026-12-01
+2026-11-24 Return the library books @town
+Read https://example.com/post later @reading
+Mount share://mnt/server before the backup +homelab
+Write to me@example.com about the trip +travel
+Meet the team start:09:30 end:10:15 @office
+Clean the logs path:/var/log and path:/ +homelab
+Release +launch:v2 from @office:3 rec:1w
+
+x 2026-11-26 2026-11-20 Renew the passport +travel @town
+x 2026-11-24 Water the plants @home
+x Sort the photos +family pri:A
+
+Really gotta call Mom (A) @phone @someday
+(b) Get back to the boss
+(B)->Submit TPS report
+Call Mom on 2026-12-01 about the trip
+xkcd comic for the team chat
+ x Indented, so not done
+x	Tab after x, so not done
+(A)
+2026-11-25
+x
+(A) 2026-11-25
